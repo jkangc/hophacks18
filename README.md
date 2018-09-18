@@ -9,7 +9,7 @@ Project for Hophacks18
 <h5>Audience:</h5>
 <p>People who are looking to discover new food recipes</p>
 
-<h5>Feature:<h5>
+<h5>Feature:</h5>
 <ul>
 <li>Share to friends</li>
 <li>List of cooking instruction (images)</li>
