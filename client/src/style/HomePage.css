@@ -1,0 +1,46 @@
+.background h1{
+    text-align: center;
+    margin-top: 300px;
+    font-size:450%;
+    color: rgb(250, 246, 246);
+}
+
+.SearchBox{
+    text-align:center;
+    font-size:150%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.background{
+    background-image: url(./assets/background.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+
+}
+
+html,body{
+    height: 100% !important;
+}
+
+#food_input{
+    width: 100%;
+    font-size:100%;
+    color: #ffffff;
+}
+
+.material-icons{
+    color: rgb(253, 252, 252);
+    font-size:150%;
+}
+
+i.right:hover{
+    background-color: #ffffff;
+    color: #26a69a;
+    border-radius: 15%;
+    opacity: 1;
+    transition: background-color .4s ease-in-out, border-color .4s ease-in-out,color .4s ease-in-out
+}
